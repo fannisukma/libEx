@@ -1,0 +1,14 @@
+{
+    "name": "trpla/libhelloex",
+    "description": "membuat library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fannisukma",
+            "email": "fannisukma@pnp.ac.id"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
